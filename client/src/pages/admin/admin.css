@@ -1,0 +1,47 @@
+button {
+    background-color: #446d15;
+    border: none;
+    color: yellowgreen;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 12px;
+     display: inline-flex;
+     align-items: center; /* Wyśrodkowanie zawartości wzdłuż osi pionowej */
+     justify-content: center; /* Wyśrodkowanie zawartości wzdłuż osi poziomej */
+  }
+
+  button:hover {
+    background-color:#5d951c ;
+    color: #a0ff33;
+    
+  }
+
+
+  .button-container button {
+    margin-right: 10px; /* Dodaj odstęp między przyciskami */
+  }
+
+  .form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-container label {
+    margin-bottom: 10px;
+  }
+  
+  .form-container input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+  h2, h5{
+    text-align: center;
+  }
+
+  .loading{
+    display: inline-flex;
+  }
