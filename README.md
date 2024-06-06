@@ -26,7 +26,7 @@ Project tree:
 Database structure:
 ![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/510ce620-cb87-43a1-97fc-335260e52a80)
 
-Excample data in play_list entity
+Excample data in play_list entity:
 ![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/cf99f098-c4b9-4ebc-b9a2-3d68d2d5fda5)
 
 LogIn page view:
