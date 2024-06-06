@@ -49,19 +49,20 @@ React, Spring Boot, Java, MySQL
 ## Aplication preview
 
 #### LogIn page view:
-![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/ed844684-ded5-4f04-a849-9c03bc47cd8a)
+![obraz](https://github.com/Bunzu013/Spotify_data/assets/83347605/6e2c7520-4c6d-487c-ac2c-40abc58cf166)
 
 #### Registry page view:
-![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/66735ae1-f398-4500-9ca2-79e3cc567afa)
+![obraz](https://github.com/Bunzu013/Spotify_data/assets/83347605/1c2ef098-d77a-4910-8dee-3b8d2891d333)
 
 #### Main page view before choosing country:
-![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/0e7fcf49-206a-4b8f-be98-2570940bcc6d)
+![obraz](https://github.com/Bunzu013/Spotify_data/assets/83347605/5505915c-6c36-4259-a832-5fd1c3e2c3d6)
 
 #### Main page before choosing country. In this case Germany:
-![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/a6f280da-b9f6-450f-b4c8-8aee94310733)
+![obraz](https://github.com/Bunzu013/Spotify_data/assets/83347605/82669ba8-86d9-44de-89e5-025b868e213f)
 
 #### Admin panel page view:
-![obraz](https://github.com/Bunzu013/Spotify/assets/83347605/b5cc008a-d6a4-4a67-beb8-81130e72f375)
+![obraz](https://github.com/Bunzu013/Spotify_data/assets/83347605/6dcf4b45-c978-496e-a551-fe27102a8628)
+
 
 
 ## Setup
