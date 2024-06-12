@@ -9,12 +9,14 @@
 
 
 ## General info
+<div>
+<p align="justify"> 
 Co-created web application for analyzing the popularity of music genres in various countries based on data from Spotify and Deezer.
 The analysis in the application is based on playlists containing the 50 most popular songs in a given country. Each country is assigned only one playlist, 
 which is updated daily by the Spotify service. Data from the Spotify service is retrieved using a dedicated Web API. 
 The project also utilizes the Deezer API to obtain information about music genres.
-
-
+</p>
+</div>
 
 ## Functional requirements
 ###### • The user has the ability to register and log in.
