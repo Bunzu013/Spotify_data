@@ -78,7 +78,7 @@ database: 3306
 #### 1. Create database with name: Spotify
 #### 2. Server side
 ```
-$ mvn clean instal
+$ mvn clean install
 $ mvn spring-boot:run
 ```
 #### 3. Client side
